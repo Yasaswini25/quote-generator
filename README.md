@@ -1,5 +1,5 @@
 # Quote-Generator
-Deployment-link:-
+Deployment-link:-https://yasaswini25.github.io/quote-generator/
 ### Project:-
 In this project I have create a quote generator with key features that include Speech Synthesis Utterance of quote,navigator to copy the quote to clipboard.
 random quote api is used to generator quotes through responsive next quote button.
